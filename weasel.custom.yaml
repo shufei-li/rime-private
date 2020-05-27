@@ -39,3 +39,9 @@ patch:
     ascii_mode: true
   app_options/acad.exe:
     ascii_mode: true
+  app_options/wechat.exe:
+    ascii_mode: false
+  app_options/qq.exe:
+    ascii_mode: false
+  app_options/wemeetapp.exe:
+    ascii_mode: false

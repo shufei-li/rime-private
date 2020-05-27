@@ -15,7 +15,7 @@ patch:
 
   # 候选词 5 个
   menu:
-    page_size: 9 #在这里修改每页候选词数，默认为5个。0为每页10个候选词。
+    page_size: 4 #在这里修改每页候选词数，默认为5个。0为每页10个候选词。
 
   schema_list:
   #- schema: luna_pinyin  # 朙月拼音
