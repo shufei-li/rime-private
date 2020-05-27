@@ -45,3 +45,5 @@ patch:
     ascii_mode: false
   app_options/wemeetapp.exe:
     ascii_mode: false
+  app_options/cloudmusic.exe:
+    ascii_mode: false
