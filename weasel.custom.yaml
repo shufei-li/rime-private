@@ -2,7 +2,7 @@ customization:
   distribution_code_name: Weasel
   distribution_version: 0.14.3
   generator: "Weasel::UIStyleSettings"
-  modified_time: "Sat May 30 21:19:36 2020"
+  modified_time: "Sat May 30 21:50:25 2020"
   rime_version: 1.5.3
 patch:
   "app_options/acad.exe":
@@ -30,7 +30,7 @@ patch:
     hilited_text_color: 0x000000
     name: Micosoft
     text_color: 0x000000
-  "style/color_scheme": brisk
+  "style/color_scheme": google
   "style/display_tray_icon": true
   "style/font_face": "Microsoft YaHei"
   "style/font_point": 13
