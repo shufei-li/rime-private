@@ -2,9 +2,23 @@ customization:
   distribution_code_name: Weasel
   distribution_version: 0.14.3
   generator: "Weasel::UIStyleSettings"
-  modified_time: "Mon Mar  9 12:30:05 2020"
+  modified_time: "Sat May 30 21:19:36 2020"
   rime_version: 1.5.3
 patch:
+  "app_options/acad.exe":
+    ascii_mode: true
+  "app_options/cloudmusic.exe":
+    ascii_mode: false
+  "app_options/parametric.exe":
+    ascii_mode: true
+  "app_options/qq.exe":
+    ascii_mode: false
+  "app_options/totalcmd64.exe":
+    ascii_mode: true
+  "app_options/wechat.exe":
+    ascii_mode: false
+  "app_options/wemeetapp.exe":
+    ascii_mode: false
   "preset_color_schemes/Micosoft":
     author: XNOM
     back_color: 0xffffff
@@ -16,11 +30,11 @@ patch:
     hilited_text_color: 0x000000
     name: Micosoft
     text_color: 0x000000
-  "style/color_scheme": Micosoft
+  "style/color_scheme": brisk
   "style/display_tray_icon": true
   "style/font_face": "Microsoft YaHei"
   "style/font_point": 13
-  "style/horizontal": false #候选框竖排，true为候选框横排
+  "style/horizontal": false
   "style/inline_preedit": true
   "style/layout/border": 0
   "style/layout/border_width": 0
@@ -31,19 +45,3 @@ patch:
   "style/layout/margin_y": 8
   "style/layout/round_corner": 0
   "style/layout/spacing": 8
-
-#此处定义输入法根据不同程序时显示不同的状态，true为切换到英文状态。
-  app_options/parametric.exe: #注意不能大写
-    ascii_mode: true
-  app_options/totalcmd64.exe:
-    ascii_mode: true
-  app_options/acad.exe:
-    ascii_mode: true
-  app_options/wechat.exe:
-    ascii_mode: false
-  app_options/qq.exe:
-    ascii_mode: false
-  app_options/wemeetapp.exe:
-    ascii_mode: false
-  app_options/cloudmusic.exe:
-    ascii_mode: false
