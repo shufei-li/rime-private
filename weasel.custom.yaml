@@ -2,7 +2,7 @@ customization:
   distribution_code_name: Weasel
   distribution_version: 0.14.3
   generator: "Weasel::UIStyleSettings"
-  modified_time: "Sat May 30 21:50:25 2020"
+  modified_time: "Sun May 31 10:28:10 2020"
   rime_version: 1.5.3
 patch:
   "app_options/acad.exe":
