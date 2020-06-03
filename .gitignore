@@ -3,5 +3,6 @@ build
 *.log
 *MANIFEST*
 CURRENT
-*LOG*
+LOG
+*.old
 LOCK
