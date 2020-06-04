@@ -2,7 +2,4 @@
 build
 *.log
 *MANIFEST*
-CURRENT
-LOG
-*.old
 LOCK

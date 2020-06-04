@@ -1,0 +1,9 @@
+2020/06/02-07:52:58.537000 17400 Log #70: 0 ops saved to Table #72 OK
+2020/06/02-07:52:58.537000 17400 Archiving C:\Users\dell\AppData\Roaming\Rime\easy_en.userdb/000070.log: OK
+2020/06/02-07:52:58.553000 17400 Table #5: 5 entries OK
+2020/06/02-07:52:58.566000 17400 Table #39: 2 entries OK
+2020/06/02-07:52:58.572000 17400 Table #52: 4 entries OK
+2020/06/02-07:52:58.575000 17400 Table #69: 2 entries OK
+2020/06/02-07:52:58.575000 17400 Table #71: 9 entries OK
+2020/06/02-07:52:58.591000 17400 Archiving C:\Users\dell\AppData\Roaming\Rime\easy_en.userdb/MANIFEST-000068: OK
+2020/06/02-07:52:58.591000 17400 **** Repaired leveldb C:\Users\dell\AppData\Roaming\Rime\easy_en.userdb; recovered 5 files; 1189 bytes. Some data may have been lost. ****
