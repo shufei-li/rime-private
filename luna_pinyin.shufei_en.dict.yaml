@@ -15,7 +15,7 @@
 ---
 name: shufei_en
 version: "2017.03.31"
-sort: shufei
+sort: by_weight
 use_preset_vocabulary: true
 ...
 
