@@ -2,7 +2,7 @@ customization:
   distribution_code_name: Weasel
   distribution_version: 0.14.3
   generator: "Rime::SwitcherSettings"
-  modified_time: "Sat May 30 21:33:16 2020"
+  modified_time: "Mon Aug 31 15:21:13 2020"
   rime_version: 1.5.3
 patch:
   ascii_composer:
@@ -15,6 +15,7 @@ patch:
   schema_list:
     - {schema: luna_pinyin_simp}
     - {schema: easy_en}
+    - {schema: bopomofo}
   switcher:
     caption: "〔方案选单〕"
     hotkeys: ["Control+grave"]
