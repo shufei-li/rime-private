@@ -84,7 +84,7 @@ patch:
   english:
     dictionary: easy_en
     spelling_hints: 9
-    enable_completion: false
+    enable_completion: true
     enable_sentence: false
     initial_quality: -3
       
