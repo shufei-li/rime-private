@@ -19,6 +19,6 @@ sort: by_weight
 use_preset_vocabulary: true
 ...
 
-HoloLens hol 100
-Kinect kin 100
-servitization ser 100
+HoloLens    hol 100
+Kinect  kin  100
+servitization   ser 100
