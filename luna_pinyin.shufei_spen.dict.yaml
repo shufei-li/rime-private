@@ -14,7 +14,7 @@
 
 ---
 name: shufei_spen
-version: "2020.09.01
+version: "2020.09.01"
 sort: by_weight
 use_preset_vocabulary: true
 ...
