@@ -1,0 +1,24 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 研究中常用的英文
+#
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+#
+
+---
+name: shufei_spen
+version: "2020.09.01
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+HoloLens hol 100
+Kinect kin 100
+servitization ser 100

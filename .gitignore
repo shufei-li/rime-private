@@ -1,5 +1,8 @@
 # Dictionary
 build
-*.log
+*LOG
+*LOG.old
+*.old
+**CURRENT
 *MANIFEST*
 LOCK

@@ -43,6 +43,7 @@ use_preset_vocabulary: true
 #注意，如果引用了不存在的词库，会导致重新部署无效。建议查看部署日志有没有错误。
 import_tables:
   - luna_pinyin
+  - luna_pinyin.shufei_spen
   - luna_pinyin.shufei_en
   - luna_pinyin.shufei_math
   - luna_pinyin.shufei_midmath
