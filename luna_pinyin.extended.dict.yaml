@@ -44,7 +44,7 @@ use_preset_vocabulary: true
 import_tables:
   - luna_pinyin
   - luna_pinyin.shufei_spen
-  - luna_pinyin.shufei_en
+  # - luna_pinyin.shufei_en
   - luna_pinyin.shufei_math
   - luna_pinyin.shufei_midmath
   - luna_pinyin.cn_en

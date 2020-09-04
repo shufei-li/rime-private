@@ -21,8 +21,14 @@ use_preset_vocabulary: true
 
 HoloLens	hol	100
 Kinect	kin	100
+RealSense	rea	100
+OptiTrack	opt	100
+
 servitization	ser	100
+
 Augmented Reality	ar	100
 Internet of Thing	iot	100
 Industrial Internet of Thing	iiot	100
 Human-Robot Collaboration	hrc	100
+eye-to-hand calibration	ethc	100
+eye-in-hand	calibration	eihc	100
