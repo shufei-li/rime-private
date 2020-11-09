@@ -5,3 +5,5 @@ build
 **CURRENT
 *MANIFEST*
 LOCK
+installation.yaml
+symbols.yaml
